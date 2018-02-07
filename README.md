@@ -1,2 +1,9 @@
-# chanot-lrec2018
-ChAnot demo for LREC2018
+# ChAnot: An Annotation Tool for Indigenous Languages in Peru.
+
+## About ChAnot
+
+## License
+
+## Citing
+
+## Contact
