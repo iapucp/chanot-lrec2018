@@ -1,0 +1,9 @@
+<script type="text/javascript" src="<c:url value='/javascript/third-party/jquery-2.2.4.min.js' />"></script>
+<script type="text/javascript" src="<c:url value='/javascript/third-party/jquery-ui-1.12.1.min.js' />"></script>
+<script type="text/javascript" src="<c:url value='/javascript/third-party/jquery.fileupload.js' />"></script>
+<script type="text/javascript" src="<c:url value='/javascript/third-party/moment.min.js' />"></script>
+<script type="text/javascript" src="<c:url value='/javascript/third-party/moment.es.min.js' />"></script>
+<script type="text/javascript" src="<c:url value='/javascript/third-party/bootstrap.min.js' />"></script>
+<script type="text/javascript" src="<c:url value='/javascript/third-party/parsley.min.js' />"></script>
+<script type="text/javascript" src="<c:url value='/javascript/third-party/i18n/es.js' />"></script>
+<script type="text/javascript" src="<c:url value='/javascript/app/chanot.js' />"></script>
