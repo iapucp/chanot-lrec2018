@@ -1,0 +1,81 @@
+.chanot-login-panel {
+    padding-top: 20px;
+}
+
+.chanot-page-header {
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+.chanot-inicio {
+    margin-right: 15px;
+}
+
+.chanot-acciones {
+    cursor: default;
+    text-decoration: none;
+}
+
+.chanot-acciones:hover {
+    text-decoration: none;
+}
+
+.table th,
+.table td {
+    text-align: center;
+}
+
+.oculto {
+    display: none;
+}
+
+.glyphicon-refresh-animate {
+    -animation: spin .7s infinite linear;
+    -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg);}
+    to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg);}
+    to { transform: scale(1) rotate(360deg);}
+}
+
+.chanot-estadisticas{
+    margin-top: 20px;
+}
+
+.chanot-margen-label-horizontal{
+    margin-top: 7px;
+}
+
+.chanot-color-rojo{
+    color: red;
+}
+
+.chanot-color-azul{
+    color: blue;
+}
+
+.chanot-no-resize{
+    resize: none;
+}
+
+.chanot-margen-label-horizontal-button{
+    margin-top: 3px;
+}
+
+.chanot-checkbox-input{
+    position: absolute;
+    transition: .5s ease;
+    bottom: 10px;
+    right: 20px;
+}
+
+.chanot-big-checkbox {
+    width: 14px; 
+    height: 14px;
+}
