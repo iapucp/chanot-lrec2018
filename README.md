@@ -1,4 +1,4 @@
-## ChAnot: An intelligent annotation tool for indigenous and highly agglutinative languages in Peru.
+﻿## ChAnot: An intelligent annotation tool for indigenous and highly agglutinative languages in Peru.
 
 ### About ChAnot
 
@@ -17,7 +17,7 @@ Moreover, ChAnot includes a suggestion engine based in machine learning models a
 
 For any question and feedback please contact the authors below, preferably with all on them on CC since their responsibilities may vary:
 
-* Rodolfo Mercado Gonzales - rmercadog@pucp.edu.pe
+* Rodolfo Mercado Gonzales - rmercado@pucp.edu.pe
 * José Pereira Noriega - jpereira@pucp.pe
 * Marco Sobrevilla Cabezudo - msobrevilla@pucp.edu.pe
 * Arturo Oncevay Marcos - arturo.oncevay@pucp.edu.pe
