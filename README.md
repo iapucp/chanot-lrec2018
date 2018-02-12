@@ -17,9 +17,9 @@ Moreover, ChAnot includes a suggestion engine based in machine learning models a
 
 For any question and feedback please contact the authors below, preferably with all on them on CC since their responsibilities may vary:
 
-* Rodolfo Mercado Gonzales - rmercado at pucp dot edu dot pe
-* José Pereira Noriega - jpereira at pucp dot pe
-* Marco Sobrevilla Cabezudo - msobrevilla at pucp dot edu dot pe
-* Arturo Oncevay Marcos - arturo.oncevay at pucp dot edu dot pe
+* Rodolfo Mercado Gonzales	 &lt;rmercado pucp edu pe&gt;
+* José Pereira Noriega	&lt;jpereira pucp pe&gt;
+* Marco Sobrevilla Cabezudo	&lt;msobrevilla pucp edu pe&gt;
+* Arturo Oncevay Marcos	&lt;arturo.oncevay pucp edu pe&gt;
 
 
