@@ -4,12 +4,12 @@
 
 ChAnot is a new web-based annotation tool, which is focused in Peruvian indigenous and highly agglutinative languages. 
 
-ChAnot enables the corpus annotation for various NLP tasks sucha as:
+ChAnot enables the corpus annotation for various NLP tasks such as:
 
-* Morphological analysis annotation (lemma and morphological segmentation)
+* Morphological analysis annotation (lemma and morphological segmentation).
 * Part-of-Speech tagging annotation. 
-* Named Entity annotation
-* Syntactic annotation (dependencies)
+* Named Entity annotation.
+* Syntactic annotation (dependencies).
 
 Moreover, ChAnot includes a suggestion engine based in machine learning models and a set of important statistics about historic annotation.
 
